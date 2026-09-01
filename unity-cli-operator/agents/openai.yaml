@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unity CLI Operator"
+  short_description: "Update and operate Unity CLI through regional proxy routing"
+  default_prompt: "Use $unity-cli-operator to diagnose, update, authenticate, and operate Unity CLI safely on Windows."

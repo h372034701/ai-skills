@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unity Spine Resource Recovery"
+  short_description: "Recover and reimport Spine assets from Unity games"
+  default_prompt: "Use $unity-spine-resource-recovery to recover Spine assets from this Unity game and import them into my Unity project."

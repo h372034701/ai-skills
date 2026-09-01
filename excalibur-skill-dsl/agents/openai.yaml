@@ -1,0 +1,4 @@
+interface:
+  display_name: "Excalibur Skill DSL"
+  short_description: "Plan and generate validated Excalibur Skill DSL"
+  default_prompt: "Use $excalibur-skill-dsl to plan this Excalibur Skill DSL request before making any file changes."
