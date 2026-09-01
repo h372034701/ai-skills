@@ -6,6 +6,7 @@ Personal skill collection for Codex and other Agent Skills-compatible tools.
 
 | Skill | Purpose | Source |
 | --- | --- | --- |
+| `excalibur-skill-csharp` | Implement Excalibur skills in native C# with lifecycle, performance, GC, and SkillTrigger guidance. | Custom skill maintained in this repository. |
 | `excalibur-skill-dsl` | Create and maintain Excalibur Skill DSL from design requirements. | Custom skill maintained in this repository. |
 | `unity-cli-operator` | Operate the standalone Unity CLI on Windows, including routing, authentication, Editor management, and Pipeline automation. | Custom skill maintained in this repository. |
 | `unity-spine-resource-recovery` | Recover Spine skeleton, atlas, texture, and Unity wrapper assets from game builds or AssetRipper exports. | Custom skill maintained in this repository. |
