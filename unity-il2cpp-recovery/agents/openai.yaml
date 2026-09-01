@@ -1,0 +1,3 @@
+interface:
+  display_name: "Unity IL2CPP Recovery"
+  short_description: "Recover CIL DLLs from Windows Unity IL2CPP builds"

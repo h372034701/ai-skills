@@ -1,0 +1,6 @@
+interface:
+  display_name: "战斗功能点审计"
+  short_description: "梳理并增量维护项目战斗功能点清单"
+  default_prompt: "Use $combat-feature-audit to audit this project's combat features and update the requested Markdown."
+policy:
+  allow_implicit_invocation: true
