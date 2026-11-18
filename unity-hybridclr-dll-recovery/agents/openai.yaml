@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unity HybridCLR DLL Recovery"
+  short_description: "Recover real IL and C# from Unity hot-update caches"
+  default_prompt: "Use $unity-hybridclr-dll-recovery to inspect this Unity build and runtime cache, recover real managed method bodies where available, and document the evidence and remaining limits."

@@ -10,6 +10,7 @@ Personal skill collection for Codex and other Agent Skills-compatible tools.
 | `excalibur-skill-dsl` | Create and maintain Excalibur Skill DSL from design requirements. | Custom skill maintained in this repository. |
 | `unity-cli-operator` | Operate the standalone Unity CLI on Windows, including routing, authentication, Editor management, and Pipeline automation. | Custom skill maintained in this repository. |
 | `unity-spine-resource-recovery` | Recover Spine skeleton, atlas, texture, and Unity wrapper assets from game builds or AssetRipper exports. | Custom skill maintained in this repository. |
+| `unity-hybridclr-dll-recovery` | Recover real managed DLLs and C# method bodies from HybridCLR hot-update bundles and YooAsset caches, including loader-derived decryption. | Custom skill distilled from a verified recovery workflow. |
 | `eli5` | Produce simple, visual explanations for non-experts. | Adapted from [`anthropics/claude-plugins-community`](https://github.com/anthropics/claude-plugins-community/tree/main/eli5/skills/eli5). |
 | `grillme` | Pressure-test an idea or plan through a focused design interview. | Imported from [`AaronZHAO84/grillme`](https://github.com/AaronZHAO84/grillme/tree/main/skills/grillme). |
 
